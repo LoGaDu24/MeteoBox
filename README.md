@@ -1,6 +1,6 @@
 ## MétéoBox
 
-La MétéoBox est une petite station d’alerte météorologique par SMS qui fonctionne sans carte SIM grâce au wifi, pour intérieur ou extérieur.
+La MétéoBox est une petite station d’alerte météorologique par SMS qui fonctionne sans carte SIM grâce au wifi, pour intérieur ou extérieur. [Voir le code]([url](https://github.com/LoGaDu24/MeteoBox/blob/main/projet_innovez.ino)).
 
 Elle dispose des fonctionnalité suivantes : alerte pluie (se basant sur la pression atmosphérique, avec une exactitude allant de 70% à 90%), alerte gel, alerte HI (Indice de chaleur, correspond à la canicule)[1] de trois paliers (canicule potentiellement dangereuse, dangereuse et très dangereuse), et une alerte qualité de l’air (CO2 principalement, qui peut donc potentiellement servir de détecteur de fumée ou encore éviter une atmosphère irrespirable dans un endroit clos).
 
